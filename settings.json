@@ -1,0 +1,98 @@
+"editor.tokenColorCustomizations": {
+    "[Monokai Classic]": {
+      "textMateRules": [
+        {
+          "name": "Class name",
+          "scope": [
+            "entity.name.type.class.ts",
+            "entity.name.type.interface.ts",
+            "entity.other.inherited-class.ts",
+            ""
+          ],
+          "settings": {
+            "foreground": "#A6E22E"
+          }
+        }
+      ]
+    },
+    "[Monokai Pro]": {
+      "textMateRules": [
+        {
+          "name": "Class name",
+          "scope": [
+            "entity.name.type.class.ts",
+            "entity.name.type.interface.ts",
+            "entity.other.inherited-class.ts",
+            ""
+          ],
+          "settings": {
+            "foreground": "#A9DC76"
+          }
+        }
+      ]
+    },
+    "[Monokai Pro (Filter Machine)]": {
+      "textMateRules": [
+        {
+          "name": "Class name",
+          "scope": [
+            "entity.name.type.class.ts",
+            "entity.name.type.interface.ts",
+            "entity.other.inherited-class.ts",
+            ""
+          ],
+          "settings": {
+            "foreground": "#A2E57B"
+          }
+        }
+      ]
+    },
+    "[Monokai Pro (Filter Octagon)]": {
+      "textMateRules": [
+        {
+          "name": "Class name",
+          "scope": [
+            "entity.name.type.class.ts",
+            "entity.name.type.interface.ts",
+            "entity.other.inherited-class.ts",
+            ""
+          ],
+          "settings": {
+            "foreground": "#BAD761"
+          }
+        }
+      ]
+    },
+    "[Monokai Pro (Filter Spectrum)]": {
+      "textMateRules": [
+        {
+          "name": "Class name",
+          "scope": [
+            "entity.name.type.class.ts",
+            "entity.name.type.interface.ts",
+            "entity.other.inherited-class.ts",
+            ""
+          ],
+          "settings": {
+            "foreground": "#7BD88F"
+          }
+        }
+      ]
+    },
+    "[Monokai Pro (Filter Ristretto)]": {
+      "textMateRules": [
+        {
+          "name": "Class name",
+          "scope": [
+            "entity.name.type.class.ts",
+            "entity.name.type.interface.ts",
+            "entity.other.inherited-class.ts",
+            ""
+          ],
+          "settings": {
+            "foreground": "#ADDA78"
+          }
+        }
+      ]
+    }
+  }
