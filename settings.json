@@ -7,7 +7,8 @@
             "entity.name.type.class.ts",
             "entity.name.type.interface.ts",
             "entity.other.inherited-class.ts",
-            ""
+            "entity.name.type.class.js",
+            "entity.other.inherited-class.js"
           ],
           "settings": {
             "foreground": "#A6E22E"
@@ -23,7 +24,8 @@
             "entity.name.type.class.ts",
             "entity.name.type.interface.ts",
             "entity.other.inherited-class.ts",
-            ""
+            "entity.name.type.class.js",
+            "entity.other.inherited-class.js"
           ],
           "settings": {
             "foreground": "#A9DC76"
@@ -39,7 +41,8 @@
             "entity.name.type.class.ts",
             "entity.name.type.interface.ts",
             "entity.other.inherited-class.ts",
-            ""
+            "entity.name.type.class.js",
+            "entity.other.inherited-class.js"
           ],
           "settings": {
             "foreground": "#A2E57B"
@@ -55,7 +58,8 @@
             "entity.name.type.class.ts",
             "entity.name.type.interface.ts",
             "entity.other.inherited-class.ts",
-            ""
+            "entity.name.type.class.js",
+            "entity.other.inherited-class.js"
           ],
           "settings": {
             "foreground": "#BAD761"
@@ -71,7 +75,8 @@
             "entity.name.type.class.ts",
             "entity.name.type.interface.ts",
             "entity.other.inherited-class.ts",
-            ""
+            "entity.name.type.class.js",
+            "entity.other.inherited-class.js"
           ],
           "settings": {
             "foreground": "#7BD88F"
@@ -87,7 +92,8 @@
             "entity.name.type.class.ts",
             "entity.name.type.interface.ts",
             "entity.other.inherited-class.ts",
-            ""
+            "entity.name.type.class.js",
+            "entity.other.inherited-class.js"
           ],
           "settings": {
             "foreground": "#ADDA78"
