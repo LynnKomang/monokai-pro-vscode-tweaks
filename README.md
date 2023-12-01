@@ -1,6 +1,11 @@
 # monokai-pro-vscode-tweaks
 This repository contains settings that fix the annoying class coloring of new Monokai Pro versions after 1.1.14.
 
+## The included changes:
+- Green colored classes and interfaces
+- Green colored React custom components
+- Overall personal minor coloring changes
+
 ## Installation
 1. Make sure to get the Monokai Pro theme from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
 2. Once the extension is installed press `CTRL + SHIFT + P` and select the `Preferences: Open User Settings (JSON)` option.
