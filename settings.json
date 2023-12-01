@@ -4,7 +4,11 @@
       "textMateRules": [
         {
           "name": "Class name",
-          "scope": ["entity.name.type", "entity.other.inherited-class"],
+          "scope": [
+            "entity.name.type",
+            "entity.other.inherited-class",
+            "meta.function.parameters"
+          ],
           "settings": {
             "foreground": "#A6E22E"
           }
@@ -15,7 +19,11 @@
       "textMateRules": [
         {
           "name": "Class name",
-          "scope": ["entity.name.type", "entity.other.inherited-class"],
+          "scope": [
+            "entity.name.type",
+            "entity.other.inherited-class",
+            "meta.function.parameters"
+          ],
           "settings": {
             "foreground": "#A9DC76"
           }
@@ -26,7 +34,11 @@
       "textMateRules": [
         {
           "name": "Class name",
-          "scope": ["entity.name.type", "entity.other.inherited-class"],
+          "scope": [
+            "entity.name.type",
+            "entity.other.inherited-class",
+            "meta.function.parameters"
+          ],
           "settings": {
             "foreground": "#A2E57B"
           }
@@ -37,7 +49,11 @@
       "textMateRules": [
         {
           "name": "Class name",
-          "scope": ["entity.name.type", "entity.other.inherited-class"],
+          "scope": [
+            "entity.name.type",
+            "entity.other.inherited-class",
+            "meta.function.parameters"
+          ],
           "settings": {
             "foreground": "#BAD761"
           }
@@ -48,7 +64,11 @@
       "textMateRules": [
         {
           "name": "Class name",
-          "scope": ["entity.name.type", "entity.other.inherited-class"],
+          "scope": [
+            "entity.name.type",
+            "entity.other.inherited-class",
+            "meta.function.parameters"
+          ],
           "settings": {
             "foreground": "#7BD88F"
           }
@@ -59,7 +79,11 @@
       "textMateRules": [
         {
           "name": "Class name",
-          "scope": ["entity.name.type", "entity.other.inherited-class"],
+          "scope": [
+            "entity.name.type",
+            "entity.other.inherited-class",
+            "meta.function.parameters"
+          ],
           "settings": {
             "foreground": "#ADDA78"
           }
