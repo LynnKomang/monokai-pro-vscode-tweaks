@@ -1,4 +1,5 @@
-"editor.tokenColorCustomizations": {
+{
+  "editor.tokenColorCustomizations": {
     "[Monokai Classic]": {
       "textMateRules": [
         {
@@ -66,3 +67,4 @@
       ]
     }
   }
+}
