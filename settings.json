@@ -1,5 +1,4 @@
-{
-  "editor.tokenColorCustomizations": {
+"editor.tokenColorCustomizations": {
     "[Monokai Classic]": {
       "textMateRules": [
         {
@@ -7,7 +6,9 @@
           "scope": [
             "entity.name.type",
             "entity.other.inherited-class",
-            "meta.function.parameters"
+            "meta.function.parameters",
+            "entity.name.tag support.class.component",
+            "entity.name.tag.js.jsx support.class.component.js.jsx"
           ],
           "settings": {
             "foreground": "#A6E22E"
@@ -22,7 +23,9 @@
           "scope": [
             "entity.name.type",
             "entity.other.inherited-class",
-            "meta.function.parameters"
+            "meta.function.parameters",
+            "entity.name.tag support.class.component",
+            "entity.name.tag.js.jsx support.class.component.js.jsx"
           ],
           "settings": {
             "foreground": "#A9DC76"
@@ -37,7 +40,9 @@
           "scope": [
             "entity.name.type",
             "entity.other.inherited-class",
-            "meta.function.parameters"
+            "meta.function.parameters",
+            "entity.name.tag support.class.component",
+            "entity.name.tag.js.jsx support.class.component.js.jsx"
           ],
           "settings": {
             "foreground": "#A2E57B"
@@ -52,7 +57,9 @@
           "scope": [
             "entity.name.type",
             "entity.other.inherited-class",
-            "meta.function.parameters"
+            "meta.function.parameters",
+            "entity.name.tag support.class.component",
+            "entity.name.tag.js.jsx support.class.component.js.jsx"
           ],
           "settings": {
             "foreground": "#BAD761"
@@ -67,7 +74,9 @@
           "scope": [
             "entity.name.type",
             "entity.other.inherited-class",
-            "meta.function.parameters"
+            "meta.function.parameters",
+            "entity.name.tag support.class.component",
+            "entity.name.tag.js.jsx support.class.component.js.jsx"
           ],
           "settings": {
             "foreground": "#7BD88F"
@@ -82,7 +91,9 @@
           "scope": [
             "entity.name.type",
             "entity.other.inherited-class",
-            "meta.function.parameters"
+            "meta.function.parameters",
+            "entity.name.tag support.class.component",
+            "entity.name.tag.js.jsx support.class.component.js.jsx"
           ],
           "settings": {
             "foreground": "#ADDA78"
@@ -91,4 +102,3 @@
       ]
     }
   }
-}
