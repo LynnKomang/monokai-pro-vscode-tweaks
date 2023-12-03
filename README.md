@@ -13,8 +13,10 @@ This repository contains settings that fix the annoying class coloring of new Mo
 4. That's it, Enjoy your improved Monokai Pro theme!
 
 ## Note
-If you prefer the red custom React components color and want to bring their original color back just remove from each `scope` tag in every theme in the file the following lines:
+1. If you prefer the red custom React components color and want to bring their original color back just remove from each `scope` tag in every theme in the file the following lines:
 ```json
 "entity.name.tag support.class.component",
 "entity.name.tag.js.jsx support.class.component.js.jsx"
 ```
+2. You can also enable Semantic Highlighting in the settings to see more tokens colored.
+   Beware that the official theme hasn't been tested for this feature and may result in strange coloring.
