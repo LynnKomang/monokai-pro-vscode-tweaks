@@ -17,7 +17,7 @@
         },
         {
           "name": "Variable name",
-          "scope": ["variable.other.constant"],
+          "scope": ["variable.other.constant", "variable.other.enummember"],
           "settings": {
             "foreground": "#fdfff1"
           }
@@ -41,7 +41,7 @@
         },
         {
           "name": "Variable name",
-          "scope": ["variable.other.constant"],
+          "scope": ["variable.other.constant", "variable.other.enummember"],
           "settings": {
             "foreground": "#fcfcfa"
           }
@@ -65,7 +65,7 @@
         },
         {
           "name": "Variable name",
-          "scope": ["variable.other.constant"],
+          "scope": ["variable.other.constant", "variable.other.enummember"],
           "settings": {
             "foreground": "#f2fffc"
           }
@@ -89,7 +89,7 @@
         },
         {
           "name": "Variable name",
-          "scope": ["variable.other.constant"],
+          "scope": ["variable.other.constant", "variable.other.enummember"],
           "settings": {
             "foreground": "#eaf2f1"
           }
@@ -113,7 +113,7 @@
         },
         {
           "name": "Variable name",
-          "scope": ["variable.other.constant"],
+          "scope": ["variable.other.constant", "variable.other.enummember"],
           "settings": {
             "foreground": "#f7f1ff"
           }
@@ -137,7 +137,7 @@
         },
         {
           "name": "Variable name",
-          "scope": ["variable.other.constant"],
+          "scope": ["variable.other.constant", "variable.other.enummember"],
           "settings": {
             "foreground": "#fff1f3"
           }
